@@ -4,7 +4,7 @@ import { Heart, Award, Users, Target, Eye, Calendar } from 'lucide-react';
 
 const About = () => {
   const milestones = [
-    { year: '1999', event: 'SwasthyaCare Hospital established in Patna, Bihar' },
+    { year: '1999', event: 'SwasthyaCare Hospital established in Noida, UP' },
     { year: '2005', event: 'NABH accreditation received' },
     { year: '2010', event: 'Expanded to 200 beds with ICU facilities' },
     { year: '2015', event: 'Introduced teleconsultation services' },
