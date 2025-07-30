@@ -72,7 +72,7 @@ const About = () => {
               <div className="space-y-4 text-gray-600">
                 <p>
                   Founded in 1999 by Dr. Rajesh Kumar Sharma, SwasthyaCare began as a small clinic 
-                  in the heart of Patna with a simple mission: to provide quality healthcare to 
+                  in the heart of Noida with a simple mission: to provide quality healthcare to 
                   the people of Bihar at affordable prices.
                 </p>
                 <p>
